@@ -8,7 +8,7 @@ import json
 from asyncio import get_event_loop
 from importlib import import_module
 
-from .settings import REGISTERED_BOTS
+from settings import REGISTERED_BOTS
 
 ################################################################
 # Create and run tasks in asyncio event loop

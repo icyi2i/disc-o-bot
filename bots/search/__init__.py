@@ -3,8 +3,8 @@
 ################################################################
 
 from discord.ext import commands
-from .utils import search_term
-from .db import create_table, add_search_entry, get_recent_searches
+from bots.search.utils import search_term
+from bots.search.db import create_table, add_search_entry, get_recent_searches
 
 # Confirm that searches table is created in database
 create_table()
