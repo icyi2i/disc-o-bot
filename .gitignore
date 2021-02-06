@@ -1,0 +1,14 @@
+# IDE configurations
+.vscode/
+
+# Virtual environment
+__venv__/
+
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# Task description
+assignment.md

@@ -1,0 +1,3 @@
+REGISTERED_BOTS = [
+                    "search",
+                    ]
